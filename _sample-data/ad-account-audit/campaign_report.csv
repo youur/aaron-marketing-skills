@@ -1,0 +1,8 @@
+Campaign,Campaign type,Status,Impressions,Clicks,CTR,Avg CPC,Cost,Conversions,Conv value,Cost / conv,Conv rate,ROAS
+Brand - Search,Search,Enabled,84210,7213,8.56%,0.42,3029.46,412.0,41250.00,7.35,5.71%,13.62
+NonBrand - Prospecting,Search,Enabled,512430,9860,1.92%,1.35,13311.00,178.0,17820.00,74.78,1.81%,1.34
+Shopping - All Products,Shopping,Enabled,743120,12045,1.62%,0.71,8551.95,236.0,29400.00,36.24,1.96%,3.44
+PMax - Catch All,Performance Max,Enabled,1204300,15330,1.27%,0.88,13490.40,205.0,21600.00,65.81,1.34%,1.60
+Display - Remarketing,Display,Enabled,2841000,9420,0.33%,0.19,1789.80,54.0,4860.00,33.14,0.57%,2.72
+Display - Prospecting,Display,Enabled,4120500,6180,0.15%,0.24,1483.20,9.0,720.00,164.80,0.15%,0.49
+Video - Awareness,Video,Enabled,988400,3110,0.31%,0.05,155.50,2.0,180.00,77.75,0.06%,1.16

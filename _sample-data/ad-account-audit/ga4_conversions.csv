@@ -1,0 +1,10 @@
+Session default channel group,Source / medium,Sessions,Conversions (purchase),Total revenue,Order IDs sample
+Paid Search,google / cpc,18420,596,58210.00,"#10231,#10244,#10255,#10261"
+Paid Shopping,google / cpc,12045,236,29400.00,"#10233,#10248,#10259"
+Display,google / cpc,15600,63,5580.00,"#10240,#10262"
+Paid Video,google / cpc,3110,2,180.00,"#10299"
+Organic Search,google / organic,42800,410,39900.00,"#10201,#10210"
+Direct,(direct) / (none),31200,288,27600.00,"#10205,#10218"
+
+# Note: GA4 total purchases for the period = 1595 orders / 160,870.00 revenue (order-ID truth set).
+# Google Ads UI reports 686 conversions across all campaigns for the same window.
